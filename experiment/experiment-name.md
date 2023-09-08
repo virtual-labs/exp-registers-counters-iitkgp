@@ -1,1 +1,1 @@
-## Experiment name
+## Registers and Counters
