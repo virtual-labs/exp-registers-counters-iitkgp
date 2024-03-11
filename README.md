@@ -5,7 +5,7 @@
 <b>Discipline | <b>Computer Science & Engineering
 :--|:--|
 <b> Lab | <b> Computer Organisation & Architecture
-<b> Experiment|     <b> Synthesis of Flip flop 
+<b> Experiment|     <b> Registers & Counters 
 
 ### About the Experiment 
 
