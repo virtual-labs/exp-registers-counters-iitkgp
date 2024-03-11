@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "what is the number of flipflops needed to design a mod-19 counter?",
+      "answers": {
+        "a": "5",
+        "b": "4",
+        "c": "6",
+        "d": "7"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How is a J-K flip-flop made to toggle?",
+      "answers": {
+        "a": "J = 0, K = 0",
+        "b": "J = 1, K = 1",
+        "c": "J = 1, K = 0",
+        "d": "J = 0, K = 1"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

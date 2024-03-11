@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which statement BEST describes the operation of a negative-edge-triggered D flip-flop?",
+      "answers": {
+        "a": "The Q output is ALWAYS identical to the CLK input if the D input is HIGH",
+        "b": "The logic level at the D input is transferred to Q on NGT of CLK",
+        "c": "The Q output is ALWAYS identical to the D input when CLK = PGT",
+        "d": "The Q output is ALWAYS identical to the D input"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Ring counter is similar to",
+      "answers": {
+        "a": "Stepping switch",
+        "b": "latch",
+        "c": "SR flipflop",
+        "d": "Toggle flipflop"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
