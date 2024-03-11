@@ -9,13 +9,20 @@
 
 ### About the Experiment 
 
-Objective of synthesis of flip-flops:
+Objective of designing registers:
 
-1. to understand the basic concepts of flip-flops as elementary units of sequential circuits
-2. to understand what is race around condition and why does it occur in JK flip-flop
-3. to know how the race around condition which occures in JK flip-flop is avoided
-4. to understand what kind of problems may occur in master slave JK flip-flop
-5. to know the need for master slave JK flip-flop with asynchronous preset and clear
+1. to understand the shifting of data
+2. to examine the behavior of different modes of data input and data output(serial-in serial-out, serial-in parallel-out, parallel-in serial out,parallel-in parallel-out)
+3. to make use of shift register in data transfer
+developing skills in the designing and testing of sequential logic circuits
+4. developing skills in analysing timing signals
+
+Objective of designing counters:
+
+1. understanding the concept of counting upto certain limiting value and returning back to the start state from final state
+2. understanding the generation of timing sequences to control operations in a digital system
+3. developing skills in the design and testing of counters for given timing sequences
+4. developing skills in generating timing signals
 
 ### Subject Matter Expert
 | SNo. | Name | Email | Department | Institute | 
