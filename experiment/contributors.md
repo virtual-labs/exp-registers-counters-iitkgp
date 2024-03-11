@@ -1,6 +1,4 @@
-EMPTY
-<!-- Remove all lines above this line before making changes to the file -->
-### Subject Matter Experts
+### Subject Matter Expert
 | SNo. | Name | Email | Department | Institute | 
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Dr. Chittaranjan Mandal | chitta@iitkgp.ac.in | Department of Computer Science and Engineering | Indian Institute of Technology, Kharagpur
