@@ -2,6 +2,30 @@
   "version": 2.0,
   "questions": [
     {
+      "question": "Which statement BEST describes the operation of a negative-edge-triggered D flip-flop?",
+      "answers": {
+        "a": "The Q output is ALWAYS identical to the CLK input if the D input is HIGH",
+        "b": "The logic level at the D input is transferred to Q on NGT of CLK",
+        "c": "The Q output is ALWAYS identical to the D input when CLK = PGT",
+        "d": "The Q output is ALWAYS identical to the D input"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Ring counter is similar to",
+      "answers": {
+        "a": "Stepping switch",
+        "b": "latch",
+        "c": "SR flipflop",
+        "d": "Toggle flipflop"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
       "question": "what is the number of flipflops needed to design a mod-19 counter?",
       "answers": {
         "a": "5",
@@ -14,12 +38,24 @@
       "difficulty": "beginner"
     },
     {
+      "question": "The dynamic problem hazards can occur both in combinational and sequential circuits",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
       "question": "How is a J-K flip-flop made to toggle?",
       "answers": {
         "a": "J = 0, K = 0",
         "b": "J = 1, K = 1",
         "c": "J = 1, K = 0",
         "d": "J = 0, K = 1"
+        
       },
       
       "correctAnswer": "b",
