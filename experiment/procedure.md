@@ -13,7 +13,7 @@ In case of counters the number of flip-flops depends on the number of different 
 
 # Circuit of D Flip Flop:
 <center>
-<img src="./simulation/images/D flip flop.png">
+<img src="./simulation/images/D flip_flop.png">
 </center>
 
 - Follow the below manual and perform the experiment
