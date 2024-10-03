@@ -1,4 +1,4 @@
-### Theory
+## Theory
 
 ## Design of Registers and Counterss :
 
