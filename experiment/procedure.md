@@ -1,4 +1,4 @@
-# Components :
+## Components :
 
 To build any register or counters, we need :
 1. Flip-Flops.
@@ -6,12 +6,12 @@ To build any register or counters, we need :
 3. Wires to connect.
 In case of counters the number of flip-flops depends on the number of different states in the counter.
 
-# Circuit 4 bit shift register(SISO):
+## Circuit 4 bit shift register(SISO):
 <center>
 <img src="./simulation/images/SISO.png">
 </center>
 
-# Circuit of D Flip Flop:
+## Circuit of D Flip Flop:
 <center>
 <img src="./simulation/images/D flip_flop.png">
 </center>
