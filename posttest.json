@@ -1,0 +1,64 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In a p stage shift register, what will be the final output delay if the clock period is t?",
+      "answers": {
+        "a": "p/t",
+        "b": "t(p-1)",
+        "c": "tp",
+        "d": "t(2p-1)"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Where will you give the pulse input in a ripple counter, designed with edge triggered JK flipflop?",
+      "answers": {
+        "a": "J and K inputs of one flipflop",
+        "b": "Clock input of one flipflop",
+        "c": "Clock input of all the flipflops",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Calculate the maximum counting speed of a 4-bit binary counter designed with flipflops having 25 ns propagation delay",
+      "answers": {
+        "a": "100 MHz",
+        "b": "4 MHz",
+        "c": "50 MHz",
+        "d": "10 MHz"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The feedback loop in a counter reduces the number of inputs to reset the counter",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A mod-2 counter followed by a mod-5 counter is",
+      "answers": {
+        "a": "Decade counter",
+        "b": "mod-7 counter",
+        "c": "mod-3 counter",
+        "d": "Same as mod-5 counter followed by a mod-2 counter"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
